@@ -1,4 +1,4 @@
-<h2>Hi there<h2> <img src="images/mona-whisper-md.gif" height="60" width="60" >
+### Hey there! <img src="images/mona-whisper-md.gif" height="60" width="60" >
 
 <!--
 **gitess2/gitess2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
