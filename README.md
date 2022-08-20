@@ -1,10 +1,5 @@
-# Hey there! <img src="images/mona-whisper-md.gif" height="45" width="45">
-
+# ✨ Hey there! ✨ <img src="images/mona-whisper-md.gif" height="45" width="45">
 <!--
-**gitess2/gitess2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
