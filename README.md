@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working on <em>actually</em> learning JavaScript
 - 💬 Ask me about why my websites look so crap!
-- 😄 Pronouns: She/Her
+- :octocat: Pronouns: She/Her
 
 #### <em>That's good enough for now...</em>
