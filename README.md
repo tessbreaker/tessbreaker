@@ -6,4 +6,4 @@
 
 #### <em>That's good enough for now...</em>
 
-<img src="images/dade.gif" height="214" width="500" alt="Dade" />
+<img src="images/dade.gif" height="190" width="450" alt="Dade" />
