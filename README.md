@@ -6,8 +6,4 @@
 
 #### <em>That's good enough for now...</em>
 
-<<<<<<< HEAD
 <img src="images/acid-burn.gif" height="241" width="427" alt="Acid Burn" />
-=======
-<img src="images/acid-burn.gif" height="254" width="450" alt="Dade" />
->>>>>>> b0b2d0a081c2627957746de129cf0ed80a3ca750
