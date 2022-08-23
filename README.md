@@ -6,4 +6,4 @@
 
 #### <em>That's good enough for now...</em>
 
-<img src="images/acid-burn.gif" height="254" width="450" alt="Dade" />
+<img src="images/acid-burn.gif" height="241" width="427" alt="Acid Burn" />
